@@ -1,5 +1,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/RipleTV/RipleTV)](https://github.com/darkalit)
-[![Repos Badge](https://badges.pufler.dev/repos/RipleTV)](https://github.com/darkalit?tab=repositories)
+[![Repos Badge](https://badges.pufler.dev/repos/RipleTV)](https://github.com/ripletv?tab=repositories)
 
 
 # About me
