@@ -7,7 +7,7 @@
 
 
 # My knowledges
-![](https://img.shields.io/badge/Blockchain-1%20year-informational) ![](https://img.shields.io/badge/Solidity-2%20months-9cf) 
+
 ## Basic
 > Distributed Ledger Technology (DLT)
 
