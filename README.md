@@ -1,43 +1,21 @@
 [![Visits Badge](https://badges.pufler.dev/visits/RipleTV/RipleTV)](https://github.com/darkalit)
-[![Repos Badge](https://badges.pufler.dev/repos/RipleTV)](https://github.com/ripletv?tab=repositories)
+[![Repos Badge](https://badges.pufler.dev/repos/RipleTV)](https://github.com/darkalit?tab=repositories)
 
 
 # About me
-### I'm a 17 years old student, studying **Software Engineering** (1st grade) at **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>**  ![](https://img.shields.io/badge/C%2B%2B-4%20months-blue) 
+### I'm a 18 years old student. I was study at **Software Engineering** (1st grade) **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>** before Russia invaded Ukraine.
+
+### Now I'm studing at **<a href="https://mendelu.cz/"> Mendel University </a>**
 
 
-# My knowledges
+### I'm interested in Blockchain, Smart contracts, Web3.0.
 
-## Basic
-> Distributed Ledger Technology (DLT)
+# My Knowlages
 
-> Bitcoin protocol
+Solidity, JS, Vue, Node.js
 
-> Elliptic Curve Cryptography
+### Step 3 from this guide https://github.com/OffcierCia/DeFi-Developer-Road-Map
 
-## Ethereum
-> Basics of Ethereum
+# My portfolio (Repos)
 
-> Ethereum Virtual Machine (EVM)
-
-> Wallets, Accounts (EOA), Private/Public Keys
-
-> Transactions, Gas, Metamask
-
-> Ethereum clients/Nodes, Geth
-
-> Infura infrastructure
-
-## Smart Contract
-> Basics of Smart Contract
-
-> Life Cycle of Smart Contract
-
-> Ethereum Higher Level languages (**Solidity**, Vyper, LLL, Serpent)
-
-> 
-
-## General Development Skills
-> Git
-
-> HTTP/HTTPS
+##
