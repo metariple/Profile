@@ -3,7 +3,7 @@
 
 
 # About me
-### I'm a 18 years old student. I was study at **Software Engineering** (1st grade) **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>** before Russia invaded Ukraine.
+### I'm a 19 years old student. I was study at **Software Engineering** (1st grade) **<a href="http://op.edu.ua/en">National University "Odessa Polytechnic"</a>** before Russia invaded Ukraine.
 
 ### Now I'm studing at **<a href="https://mendelu.cz/"> Mendel University </a>**
 
