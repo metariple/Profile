@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Kaizen Contacts**
 
-- 📫 How to reach me **LinkedIn**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vladyslav-gryshyn/](https://www.linkedin.com/in/vladyslav-gryshyn/)
-
 - 🌱 My mission **To live a happy life by creating technological innovations for people.**
 
 - ⚡ Big fan of 3 things **Startups, Personal growth, Tennis**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/vladyslav-gryshyn/](https://www.linkedin.com/in/vladyslav-gryshyn/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
