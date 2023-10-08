@@ -7,7 +7,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vladyslav-gryshyn/](https://www.linkedin.com/in/vladyslav-gryshyn/)
 
-- ⚡ Big fan of 3 things **Planning, Personal growth, Tennis**
+- 🌱 My mission **To live a happy life by creating technological innovations for people.**
+
+- ⚡ Big fan of 3 things **Startups, Personal growth, Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
