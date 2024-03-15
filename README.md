@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Kaizen Contacts**
+- 🔭 I’m currently working on **Niksen Pay**
 
 - 🌱 My mission **To live a happy life by creating technological innovations for people.**
 
